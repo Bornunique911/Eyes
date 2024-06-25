@@ -52,17 +52,17 @@ The facial recognition module is called: Venom
 - [Git](https://git-scm.com/downloads)
 - [New terminal](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701?hl=en-us&gl=us) (to display emojis) # only for windows
 
-```
-$ git clone https://github.com/N0rz3/Eyes.git
-$ cd ./Eyes
-$ pip3 install -r requirements.txt
+```console
+git clone https://github.com/N0rz3/Eyes.git
+cd Eyes/
+pip3 install -r requirements.txt
 ```
 
 Eyes is very easy to use and not at all complex 🤙
 
 ### 🏄 Usage
 
-```
+```console
 usage: python eyes.py [-h] [-m] [email]
 
 positional arguments:
